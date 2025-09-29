@@ -1,1 +1,2 @@
 print("youkosoa")
+print("ようこそ、加藤さん")
